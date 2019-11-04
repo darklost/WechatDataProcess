@@ -1,0 +1,4 @@
+out/avatar/*
+json/*.json
+out/*.xls
+.vscode
